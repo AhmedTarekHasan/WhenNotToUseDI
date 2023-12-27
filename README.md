@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://betterprogramming.pub/when-not-to-use-di-ioc-and-ioc-containers-f95881d0fe0?sk=b2aa002a72db4258756feb9cf1daa2a9" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/when-not-to-use-di-ioc-and-ioc-containers-in-net-c" />
 
 # When Not To Use DI, IoC, and IoC Containers in .NET C#
 ### Know when DIs aren’t the right solution, and the better design to use instead in .NET C#
 
 <p align="center">
-  <img src="https://miro.medium.com/max/875/0*4Yg3_dF_lF0P9CxY">
+  <img src="https://static.wixstatic.com/media/488a99_30307101cdd647b395fda57e75238a06~mv2.png">
 </p>
 
 <br/>
@@ -71,4 +71,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://betterprogramming.pub/when-not-to-use-di-ioc-and-ioc-containers-f95881d0fe0?sk=b2aa002a72db4258756feb9cf1daa2a9
+[Article]: https://www.developmentsimplyput.com/post/when-not-to-use-di-ioc-and-ioc-containers-in-net-c
